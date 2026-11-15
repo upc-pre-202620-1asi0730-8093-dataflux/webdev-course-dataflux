@@ -85,17 +85,16 @@ No se necesita instalar un entorno de desarrollo local.
 
 ## Lecciones
 
-| # | Lección | Duración | Video |  | Starter | Solución |
-|---:|---|---:|---|---|---|---|
+
+| # | Lección | Duración | Video | Starter | Solución |
+|---:|---|---:|---|---|---|
 | 1 | Tu primera página web | 4 min | [Video](https://www.youtube.com/watch?v=Ssa_jED6wS0&list=PLW97nISQnUFw) | [Abrir](starter-files/lesson-01) | [Ver](completed-examples/lesson-01) |
 | 2 | Un blog funcional | 9 min | [Video](https://www.youtube.com/watch?v=vF-GGdO5HrQ&list=PLW97nISQnUFw&index=2) | [Abrir](starter-files/lesson-02) | [Ver](completed-examples/lesson-02) |
 | 3 | Insertando listas e imágenes | 7 min | [Video](https://www.youtube.com/watch?v=mADb7_NH7FU) | [Abrir](starter-files/lesson-03) | [Ver](completed-examples/lesson-03) |
-| 4 | Introducción a CSS | 4 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [Abrir](starter-files/lesson-04/Main.java) | [Ver](completed-examples/lesson-04) |
-| 5 | Creando una ficha de presentación personalizada  | 9 min | [Video](https://www.youtube.com/watch?v=OHr96MJXP40&list=PLW97nISQnUFw&index=5) | [Abrir](starter-files/lesson-05) | [Ver](completed-examples/lesson-05) |
-| 6 | Errores Comunes y Próximos Pasos | 12 min | [Video](https://www.youtube.com/watch?v=Y8TATaP1wtE&list=PLW97nISQnUFw&index=6) | [JDoodle](https://www.jdoodle.com/ga/rhw8-t6su-5g87) | [Abrir](starter-files/lesson-06) | [Ver](completed-examples/lesson-06) |
-|  | **Duración total** | **45 min** |  |  |  |  |
-
-Los enlaces definitivos se agregarán después de publicar los videos como no listados en YouTube y preparar las prácticas correspondientes en JDoodle.
+| 4 | Introducción a CSS | 4 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [Abrir](starter-files/lesson-04) | [Ver](completed-examples/lesson-04) |
+| 5 | Creando una ficha de presentación personalizada | 9 min | [Video](https://www.youtube.com/watch?v=OHr96MJXP40&list=PLW97nISQnUFw&index=5) | [Abrir](starter-files/lesson-05) | [Ver](completed-examples/lesson-05) |
+| 6 | Errores comunes y próximos pasos | 12 min | [Video](https://www.youtube.com/watch?v=Y8TATaP1wtE&list=PLW97nISQnUFw&index=6) | [Abrir](starter-files/lesson-06) | [Ver](completed-examples/lesson-06) |
+| | **Duración total** | **45 min** | | | |
 
 ## Cómo utilizar el curso
 

@@ -88,12 +88,12 @@ No se necesita instalar un entorno de desarrollo local.
 
 | # | Lección | Duración | Video | Starter | Solución |
 |---:|---|---:|---|---|---|
-| 1 | Tu primera página web | 4 min | [Video](https://www.youtube.com/watch?v=Ssa_jED6wS0&list=PLW97nISQnUFw) | [Abrir](starter-files/lesson-01) | [Ver](completed-examples/lesson-01) |
-| 2 | Un blog funcional | 9 min | [Video](https://www.youtube.com/watch?v=vF-GGdO5HrQ&list=PLW97nISQnUFw&index=2) | [Abrir](starter-files/lesson-02) | [Ver](completed-examples/lesson-02) |
-| 3 | Insertando listas e imágenes | 7 min | [Video](https://www.youtube.com/watch?v=mADb7_NH7FU) | [Abrir](starter-files/lesson-03) | [Ver](completed-examples/lesson-03) |
-| 4 | Introducción a CSS | 4 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [Abrir](starter-files/lesson-04) | [Ver](completed-examples/lesson-04) |
-| 5 | Creando una ficha de presentación personalizada | 9 min | [Video](https://www.youtube.com/watch?v=OHr96MJXP40&list=PLW97nISQnUFw&index=5) | [Abrir](starter-files/lesson-05) | [Ver](completed-examples/lesson-05) |
-| 6 | Errores comunes y próximos pasos | 12 min | [Video](https://www.youtube.com/watch?v=Y8TATaP1wtE&list=PLW97nISQnUFw&index=6) | [Abrir](starter-files/lesson-06) | [Ver](completed-examples/lesson-06) |
+| 1 | ¿Qué es el desarrollo web? | 4 min | [Video](https://youtu.be/wdD3yBydBDw?si=KhYj0GLd2rjQzlwc) | [Abrir](starter-files/lesson-01) | [Ver](completed-examples/lesson-01) |
+| 2 | Estructura básica de una página HTML| 9 min | [Video](https://youtu.be/YJedRL0P3AM?si=wYaNURkpZ9zMEPrO) | [Abrir](starter-files/lesson-02) | [Ver](completed-examples/lesson-02) |
+| 3 | Listas, Imágenes y Enlaces | 7 min | [Video](https://youtu.be/xmAvyTR-Uww?si=492I6FenkFlkfn44) | [Abrir](starter-files/lesson-03) | [Ver](completed-examples/lesson-03) |
+| 4 | Introducción a CSS | 4 min | [Video](https://youtu.be/TOLJrjedW98?si=UfUwbytptUlq9j3F)| [Abrir](starter-files/lesson-04) | [Ver](completed-examples/lesson-04) |
+| 5 | Proyecto Integrador Tarjeta de Perfil Personal | 9 min | [Video](https://youtu.be/god2Q818myk?si=S7kHIM6FmbF4fGQz) | [Abrir](starter-files/lesson-05) | [Ver](completed-examples/lesson-05) |
+| 6 | Errores comunes y próximos pasos | 12 min | [Video](https://youtu.be/JJQjU_yhp4M?si=9zKZm62ASpFRbpat) | [Abrir](starter-files/lesson-06) | [Ver](completed-examples/lesson-06) |
 | | **Duración total** | **45 min** | | | |
 
 ## Cómo utilizar el curso
